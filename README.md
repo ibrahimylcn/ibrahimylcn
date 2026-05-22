@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Yönetim Bilişim Sistemleri<br>
-  🏭 Operasyonel Teknolojiler & MES / MOM Sistemleri<br>
+  🏭 MES / MOM Sistemleri<br>
   📍 İzmir, Türkiye
 </p>
 
